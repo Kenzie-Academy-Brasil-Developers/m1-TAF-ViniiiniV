@@ -48,7 +48,7 @@ if (gender === "male"){             //verificando se o genero é masculino
         }
     }
 }else {
-    (passed = false)};     //caso não for cumprido os requisitos, não passa no teste
+    passed = false};     //caso não for cumprido os requisitos, não passa no teste
 
 
 /*
